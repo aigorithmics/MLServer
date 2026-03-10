@@ -65,3 +65,4 @@ runtimes/alibi-explain/tests/.data/**
 
 # Docker metadata
 .docker/
+.claude
